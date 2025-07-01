@@ -14,4 +14,5 @@ Ctrl + a, , - rename window
 Ctrl + a, C - create new session
 Ctrl + a, c - create new window
 Ctrl + a, s - list of sessions
+Ctrl + a, Ctrl + s - save tmux-resurrect
 ```
